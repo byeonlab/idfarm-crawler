@@ -1,0 +1,18 @@
+# .env 파일 템플릿
+IDFARM_ID=
+IDFARM_PW=
+
+IDFARM_MAIN_URL=https://idfarm.co.kr
+IDFARM_LOGIN_URL=https://idfarm.co.kr/bbs/login_check.php
+
+GAME_CODE=hsr
+ACCOUNT_TYPE=[진행계]
+ACCOUNT_SOURCE=본인(1대)
+SEARCH_CATEGORY=아이디
+MIN_PRICE=10
+MAX_PRICE=60
+
+SORT_TYPE=sale
+
+FIRST_PAGE=1
+LAST_PAGE=10

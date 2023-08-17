@@ -1,2 +1,4 @@
 .env*
 cookies
+idfarm.log
+__pycache__
